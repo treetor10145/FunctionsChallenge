@@ -1,11 +1,9 @@
-# Name: 
+# Name: Eric Chang
 
 ## Examples:
-Insert examples here.
-
+kinematic(2,3,9);
 ## Description:
-Insert description here
-
+Calculate the distance an object travels given the intial velocity, the acceleration, and the time the object spend traveling 
 ## Syntax:
 Demonstrate syntax here
 

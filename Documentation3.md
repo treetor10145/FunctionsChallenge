@@ -1,19 +1,15 @@
-# Name: 
+# Name: shrinkCircle()
 
 ## Examples:
-Insert examples here.
-
+circle(1000)
 ## Description:
-Insert description here
-
+Creates a circle that starts off at the specified diameter and then shrinks to a smaller size
 ## Syntax:
 Demonstrate syntax here
-
+circle(float diam)
 ##Parameters: 
-Name and describe parameters here
-
+diam - float, the intial size of the diameter
 ##Returns:
-What type of data does it return?
-
+void
 ##Other notes:
 Anything else?

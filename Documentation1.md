@@ -1,19 +1,16 @@
-# Name: 
+# Name: Kinematic
 
 ## Examples:
-Insert examples here.
-
+kinematic(2,3,9)
 ## Description:
-Insert description here
-
+Uses a kinematic equation to determine the distance a object travels, given the initial velocity, time and acceleration
 ## Syntax:
-Demonstrate syntax here
-
+kinematic(float vi,float a, float t)
 ##Parameters: 
-Name and describe parameters here
-
+vi- float, the intial velocity of the object
+a - float, the acceleration of the object
+t - float, the time the object was traveling
 ##Returns:
-What type of data does it return?
-
+float
 ##Other notes:
 Anything else?

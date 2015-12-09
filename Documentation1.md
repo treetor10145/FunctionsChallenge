@@ -1,4 +1,4 @@
-# Name: Kinematic
+# Name: Kinematic()
 
 ## Examples:
 kinematic(2,3,9)

@@ -1,5 +1,5 @@
 # Name: 
-Factor
+Factor()
 ## Examples:
 factor(3,-5,4)
 ## Description:
